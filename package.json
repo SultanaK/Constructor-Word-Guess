@@ -1,0 +1,25 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript Assignment: Constructor Hangman # About this project This project is a command line version of the classic Hangman game. This game uses similar logic to the browser-based Hangman game, but with this game, I created a command line version using Javascript constructor functions to create letter and word objects, the inquirer npm package to prompt users to guess a letter, and Node.js to run the Javascript code from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SultanaK/Constructor-Word-Guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SultanaK/Constructor-Word-Guess/issues"
+  },
+  "homepage": "https://github.com/SultanaK/Constructor-Word-Guess#readme",
+  "dependencies": {
+    "boxen": "^2.0.0",
+    "cli-color": "^1.4.0",
+    "inquirer": "^6.2.0",
+    "is-letter": "^1.1.1"
+  }
+}
